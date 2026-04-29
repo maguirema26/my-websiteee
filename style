@@ -1,0 +1,12 @@
+body {
+  font-family: Arial;
+  background: #f4f4f4;
+}
+
+a {
+  margin-right: 10px;
+}
+
+img {
+  margin: 10px;
+}
