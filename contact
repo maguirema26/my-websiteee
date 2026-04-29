@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Contact</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<h1>Contact</h1>
+<a href="index.html">Home</a>
+
+<form>
+<input type="text" placeholder="Name"><br><br>
+<input type="email" placeholder="Email"><br><br>
+<textarea placeholder="Message"></textarea><br><br>
+<input type="submit">
+</form>
+
+</body>
+</html>
